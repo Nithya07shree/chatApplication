@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# chatApp
-=======
 # Chat Application
 
 A full-stack real-time chat application with authentication, user profiles, and voice control features.
@@ -61,4 +58,3 @@ Visit [http://localhost:5173](http://localhost:5173) (or the port shown in termi
 ## Folder Details
 - `backend/` — Express server, API routes, models, controllers
 - `frontend/` — React app, components, pages, store
->>>>>>> 9da9d04 (First commit)
